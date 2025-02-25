@@ -1,0 +1,17 @@
+extend: {
+    colors: {
+      brightColor: "#F4511F",
+      backgroundColor: "#b7bca9",
+      lightText: "#959595",
+    },
+  },
+
+
+  Choose From Our Menu and Order Now.
+
+  Indulge in a symphony of flavors, where each plate is a canvas for
+  culinary excellence.
+
+  InRoomDinning@email.com
+  +64 958 248 966
+  Social media
